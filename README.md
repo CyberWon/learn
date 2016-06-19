@@ -9,6 +9,8 @@
 - [四.多线程](https://www.zybuluo.com/iyuesh/note/400673)
 - [五.web框架flask](https://www.zybuluo.com/iyuesh/note/400756)
 
-## 实践篇
+## 提高篇
 
 - [六.批量执行命令-paramiko](https://www.zybuluo.com/iyuesh/note/400897)
+- [七.配置文件的选择](https://www.zybuluo.com/iyuesh/note/411850)
+- [八.多层架构](https://www.zybuluo.com/iyuesh/note/412156)
